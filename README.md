@@ -1,1 +1,1 @@
-# NPLHateSpeech
+# Hate Speech is all you don't need!
