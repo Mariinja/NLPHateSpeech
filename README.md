@@ -7,9 +7,13 @@ The rise of social media platforms, empowering individuals to voice their feelin
 
 ## Files
 Following files are included in this repo:
+
 [The initial training of the pretrained RoBERTa Model on the hate speech dataset](https://github.com/Mariinja/NLPHateSpeech/blob/main/inital_hate_speech_model_training.ipynb) 
+
 [Adversarial attacks on the model](https://github.com/Mariinja/NLPHateSpeech/blob/main/adversarial_attacks.ipynb)
+
 [Adversarial training on the model](https://github.com/Mariinja/NLPHateSpeech/blob/main/adversarial_training.ipynb)
+
 [Adjusted trainer from textattack for our project](https://github.com/Mariinja/NLPHateSpeech/blob/main/trainer.py)
 
 ## Authors
